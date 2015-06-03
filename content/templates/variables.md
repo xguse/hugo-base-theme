@@ -75,7 +75,7 @@ includes indexes, lists and the homepage.
 
 Also available is `.Site` which has the following:
 
-**.Site.BaseUrl** The base URL for the site as defined in the config.json file.<br>
+**.Site.BaseURL** The base URL for the site as defined in the config.json file.<br>
 **.Site.Taxonomies** The indexes for the entire site.<br>
 **.Site.LastChange** The date of the last change of the most recent content.<br>
 **.Site.Recent** Array of all content ordered by Date, newest first.<br>
